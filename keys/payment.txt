@@ -1,0 +1,12 @@
+https://dashboard.razorpay.com/?next=app%2Fpaymentpages#/access/signin
+manual login from input fields in razor pay . i didn't loggedin from google auth .
+after login navigate to setting>api keys
+
+
+key 
+rzp_test_tRliAHMLk7ZWQW
+
+
+key secret 
+
+jO1ExPYbJ5vUWGgdfAheysuQ
